@@ -1,0 +1,14 @@
+C:\Junior\Курс С# - проекты по С# 2 часть\ShiftArrayValues\ShiftArrayValues\bin\Debug\netcoreapp3.1\ShiftArrayValues.exe
+C:\Junior\Курс С# - проекты по С# 2 часть\ShiftArrayValues\ShiftArrayValues\bin\Debug\netcoreapp3.1\ShiftArrayValues.deps.json
+C:\Junior\Курс С# - проекты по С# 2 часть\ShiftArrayValues\ShiftArrayValues\bin\Debug\netcoreapp3.1\ShiftArrayValues.runtimeconfig.json
+C:\Junior\Курс С# - проекты по С# 2 часть\ShiftArrayValues\ShiftArrayValues\bin\Debug\netcoreapp3.1\ShiftArrayValues.runtimeconfig.dev.json
+C:\Junior\Курс С# - проекты по С# 2 часть\ShiftArrayValues\ShiftArrayValues\bin\Debug\netcoreapp3.1\ShiftArrayValues.dll
+C:\Junior\Курс С# - проекты по С# 2 часть\ShiftArrayValues\ShiftArrayValues\bin\Debug\netcoreapp3.1\ShiftArrayValues.pdb
+C:\Junior\Курс С# - проекты по С# 2 часть\ShiftArrayValues\ShiftArrayValues\obj\Debug\netcoreapp3.1\ShiftArrayValues.csproj.AssemblyReference.cache
+C:\Junior\Курс С# - проекты по С# 2 часть\ShiftArrayValues\ShiftArrayValues\obj\Debug\netcoreapp3.1\ShiftArrayValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Junior\Курс С# - проекты по С# 2 часть\ShiftArrayValues\ShiftArrayValues\obj\Debug\netcoreapp3.1\ShiftArrayValues.AssemblyInfoInputs.cache
+C:\Junior\Курс С# - проекты по С# 2 часть\ShiftArrayValues\ShiftArrayValues\obj\Debug\netcoreapp3.1\ShiftArrayValues.AssemblyInfo.cs
+C:\Junior\Курс С# - проекты по С# 2 часть\ShiftArrayValues\ShiftArrayValues\obj\Debug\netcoreapp3.1\ShiftArrayValues.csproj.CoreCompileInputs.cache
+C:\Junior\Курс С# - проекты по С# 2 часть\ShiftArrayValues\ShiftArrayValues\obj\Debug\netcoreapp3.1\ShiftArrayValues.dll
+C:\Junior\Курс С# - проекты по С# 2 часть\ShiftArrayValues\ShiftArrayValues\obj\Debug\netcoreapp3.1\ShiftArrayValues.pdb
+C:\Junior\Курс С# - проекты по С# 2 часть\ShiftArrayValues\ShiftArrayValues\obj\Debug\netcoreapp3.1\ShiftArrayValues.genruntimeconfig.cache
